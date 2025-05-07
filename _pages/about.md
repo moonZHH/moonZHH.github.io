@@ -30,8 +30,12 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes**  
+  [[paper]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00233)  
+  Shiyao Zhou, Jincheng Wang, He Ye, <u>Hao Zhou</u>, Claire Le Goues, Xiapu Luo  
+  47th IEEE/ACM International Conference on Software Engineering (**ICSE**), 2025
 - **Automatic Library Fuzzing through API Relation Evolvement**  
-  [[paper]](https://github.com/moonZHH/404.md)  
+  [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2025-750-paper.pdf)  
   Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, Changhua Luo, <u>Hao Zhou</u>, Chenxiong Qian  
   32nd Network and Distributed Systems Security Symposium (**NDSS**), 2025
 - **MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs**  
