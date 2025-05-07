@@ -178,10 +178,11 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [Information and Software Technology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology)
 
 ## Teaching Experience
+- Cyber and Internet Security (COMP5355), Lecturer
+- Decentralized Apps Fundamentals and Development (COMP5565), Lecturer
 - Object-oriented Programming (COMP2021), Teaching Assistant
 - Software Project Management (COMP3235), Teaching Assistant
 - Social and Collaborative Computing (COMP3121), Teaching Assistant
-- Cyber and Internet Security (COMP5355), Teaching Assistant
 
 ## Discovered Vulnerabilities
 - Google Android  
