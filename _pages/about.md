@@ -53,7 +53,8 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   39th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2024
 - **DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back**  
   [[paper]](https://doi.org/10.1145/3658644.3690256) 
-  [[ACM SIGSAC Distinguished Paper Award]](https://www.sigsac.org/ccs/CCS2024/program/awards.html)  
+  [[ACM SIGSAC Distinguished Paper Award]](https://www.sigsac.org/ccs/CCS2024/program/awards.html) 
+  [[Cybersecurity Best Practical Paper Award]](https://cybersecurity.springeropen.com/best-paper-award-2025)  
   Zhiyuan Sun, Zihao Li, Xinghao Peng, Xiapu Luo, Muhui Jiang, <u>Hao Zhou</u>, Yinqian Zhang  
   31st ACM Conference on Computer and Communications Security (**CCS**), 2024
 - **Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients**  
