@@ -30,6 +30,14 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**  
+  [[paper]](https://moonzhh.github.io/)  
+  Sheng Cao, <u>Hao Zhou</u>, Songzhou Shi, Yanjie Zhao, Haoyu Wang  
+  32nd ACM Conference on Computer and Communications Security (**CCS**), 2025
+- **Denial of Sequencing Attacks in Ethereum Layer 2 Rollups**  
+  [[paper]](https://moonzhh.github.io/)  
+  Zihao Li, Zhiyuan Sun, Zheyuan He, Jinzhao Chu, <u>Hao Zhou</u>, Xiapu Luo, Ting Chen, Yinqian Zhang  
+  32nd ACM Conference on Computer and Communications Security (**CCS**), 2025
 - **LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes**  
   [[paper]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00233)  
   Shiyao Zhou, Jincheng Wang, He Ye, <u>Hao Zhou</u>, Claire Le Goues, Xiapu Luo  
