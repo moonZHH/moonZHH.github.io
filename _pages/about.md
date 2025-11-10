@@ -142,7 +142,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   <u>Hao Zhou</u>, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang  
   35th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), 2020
 - **PackerGrind: An Adaptive Unpacking System for Android Apps**  
-  [[paper]](https://doi.org/10.1109/TSE.2020.2996433) 
+  [[paper]](/files/Packergrind-TSE.pdf) 
   [[artifacts]](https://github.com/rewhy/adaptiveunpacker)  
   Lei Xue, <u>Hao Zhou</u>, Xiapu Luo, Le Yu, Dinghao Wu, Yajin Zhou, Xiaobo Ma  
   IEEE Transactions on Software Engineering (**TSE**), 2020
@@ -161,7 +161,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   Le Yu, Xiapu Luo, Jiachi Chen, <u>Hao Zhou</u>, Tao Zhang, Henry Chang, Hareton K. N. Leung  
   IEEE Transactions on Software Engineering (**TSE**), 2018
 - **NDroid: Toward Tracking Information Flows Across Multiple Android Contexts**  
-  [[paper]](https://doi.org/10.1109/TIFS.2018.2866347) 
+  [[paper]](/files/NDroid.pdf) 
   [[artifacts]](https://github.com/rewhy/NDroid)  
   Lei Xue, Chenxiong Qian, <u>Hao Zhou</u>, Xiapu Luo, Yajin Zhou, Yuru Shao, Alvin T.S. Chan  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
