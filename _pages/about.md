@@ -30,6 +30,10 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
+- **Interpretable Defense against Structural Adversarial Attack on Android Malware Detection**  
+  [[paper]](https://moonzhh.github.io/)  
+  Wenying Wei, Kaifa Zhao, <u>Hao Zhou</u>, Jianfeng Li, Shuohan Wu, Ming Fan, Xiapu Luo, Ting Wang, Kai Zhou, Ting Liu, Yuzhe Tang  
+  IEEE Transactions on Information Forensics and Security (**TIFS**), 2025
 - **Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**  
   [[paper]](https://moonzhh.github.io/)  
   Sheng Cao, <u>Hao Zhou</u>, Songzhou Shi, Yanjie Zhao, Haoyu Wang  
@@ -96,10 +100,6 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [[ACM SIGSOFT Distinguished Paper Award]](/files/NCScope-Award.pdf)  
   <u>Hao Zhou</u>, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai  
   31st International Symposium on Software Testing and Analysis (**ISSTA**), 2022
-- **Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit**  
-  [[paper]](https://doi.org/10.1145/3485447.3512151)  
-  Guosheng Xu, Siyi Li, <u>Hao Zhou</u>, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu, Haoyu Wang  
-  ACM Web Conference (**WWW**), 2022
 - **Uncovering Cross-Context Inconsistent Access Control Enforcement in Android**  
   [[paper]](/files/IAceFinder.pdf) 
   [[artifacts]](https://github.com/moonZHH/IAceFinder)  
@@ -151,11 +151,6 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [[artifacts]](https://github.com/Mohannadcse/DINA)  
   Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2020
-- **Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code**  
-  [[paper]](https://doi.org/10.1109/INFOCOM.2019.8737637) 
-  [[artifacts]](https://github.com/Mohannadcse/DINA)  
-  Mohannad Alhanahnah, Qiben Yan, Hamid Bagheri, <u>Hao Zhou</u>, Yutaka Tsutano, Witawas Srisa-an, Xiapu Luo  
-  IEEE Conference on Computer Communications (**INFOCOM**), 2019
 - **PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies**  
   [[paper]](https://doi.org/10.1109/TSE.2018.2886875)  
   Le Yu, Xiapu Luo, Jiachi Chen, <u>Hao Zhou</u>, Tao Zhang, Henry Chang, Hareton K. N. Leung  
