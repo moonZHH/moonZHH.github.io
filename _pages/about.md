@@ -162,6 +162,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
 
 ## Awards
+- **Cybersecurity Best Practical Paper Award** at Cybersecurity'25
 - **ACM SIGSOFT Distinguished Paper Award** at ASE'24
 - **ACM SIGSAC Distinguished Paper Award** at CCS'24
 - **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
