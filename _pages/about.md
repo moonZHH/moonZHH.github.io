@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: hcnzhou (at) polyu.edu.hk, sunmoonsky0001 (at) gmail.com, ~~cshaoz (at) comp.polyu.edu.hk~~
 
 ## Biography
-Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications, advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Systems Security, Software Security, Operating Systems Security, Program Analysis, and Blockchain with papers published in top-tier venues (e.g., CCS, NDSS, S&P, USENIX SEC, ASE, FSE, ICSE, ISSTA, TIFS, TSE). His research has been recognized with two ACM SIGSOFT Distinguished Paper Awards (ISSTA'22, ASE'24) and one ACM SIGSAC Distinguished Paper Award (CCS'24). He has uncovered many severe vulnerabilities in mobile systems, with 19 CVEs assigned.
+Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his B.E. in Communication Engineering and M.E. in Information Security from Nanjing University of Posts and Telecommunications, advised by [Prof. Wei Zhang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A492DCFE050007F01006EFE). His current research interests include Mobile Security, System Security, Software Security, and Blockchain, with papers published in top-tier venues (e.g., CCS, NDSS, S&P, USENIX SEC, ASE, FSE, ICSE, ISSTA, TIFS, TSE). His research has been recognized with two ACM SIGSOFT Distinguished Paper Awards (ISSTA'22, ASE'24) and one ACM SIGSAC Distinguished Paper Award (CCS'24). He has uncovered many severe vulnerabilities in mobile systems, with 19 CVEs assigned.
 
 ## Experience
 - 08/2023 - current, Research Assistant Professor, The Hong Kong Polytechnic University  
@@ -169,7 +169,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 
 ## Services
 - **Technical Program Committee Member**  
-  2026: CCS  
+  2026: [CCS](https://www.sigsac.org/ccs/CCS2026/)  
   2025: [AsiaCCS](https://asiaccs2025.hust.edu.vn/), [CCS](https://www.sigsac.org/ccs/CCS2025/), [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
 - **Artifacts Evaluation Committee Member**  
