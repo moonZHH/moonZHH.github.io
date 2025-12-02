@@ -35,11 +35,11 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   Wenying Wei, Kaifa Zhao, <u>Hao Zhou</u>, Jianfeng Li, Shuohan Wu, Ming Fan, Xiapu Luo, Ting Wang, Kai Zhou, Ting Liu, Yuzhe Tang  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025
 - **Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**  
-  [[paper]](https://moonzhh.github.io/)  
+  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3719027.3765034)  
   Sheng Cao, <u>Hao Zhou</u>, Songzhou Shi, Yanjie Zhao, Haoyu Wang  
   32nd ACM Conference on Computer and Communications Security (**CCS**), 2025
 - **Denial of Sequencing Attacks in Ethereum Layer 2 Rollups**  
-  [[paper]](https://moonzhh.github.io/)  
+  [[paper]](https://dl.acm.org/doi/10.1145/3719027.3765100)  
   Zihao Li, Zhiyuan Sun, Zheyuan He, Jinzhao Chu, <u>Hao Zhou</u>, Xiapu Luo, Ting Chen, Yinqian Zhang  
   32nd ACM Conference on Computer and Communications Security (**CCS**), 2025
 - **LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes**  
