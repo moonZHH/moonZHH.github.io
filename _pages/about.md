@@ -31,7 +31,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ))
 - **Interpretable Defense against Structural Adversarial Attack on Android Malware Detection**  
-  [[paper]](https://moonzhh.github.io/)  
+  [[paper]](https://doi.org/10.1109/TIFS.2025.3639962)  
   Wenying Wei, Kaifa Zhao, <u>Hao Zhou</u>, Jianfeng Li, Shuohan Wu, Ming Fan, Xiapu Luo, Ting Wang, Kai Zhou, Ting Liu, Yuzhe Tang  
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2025
 - **Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**  
