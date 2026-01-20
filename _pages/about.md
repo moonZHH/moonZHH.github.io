@@ -29,7 +29,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkWfZcByc-RON98J6vxPv10aBxk12ixY2SMN-sbY8QCM9mcGDp8uOvXkJv_EhuQuOL&uniplatform=NZKPT&src=copy) Android Repackaged App Detection
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
-## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ) and [dblp](https://dblp.org/pid/63/778-43.html))
+## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ) and [DBLP](https://dblp.org/pid/63/778-43.html))
 - **Interpretable Defense against Structural Adversarial Attack on Android Malware Detection**  
   [[paper]](https://doi.org/10.1109/TIFS.2025.3639962)  
   Wenying Wei, Kaifa Zhao, <u>Hao Zhou</u>, Jianfeng Li, Shuohan Wu, Ming Fan, Xiapu Luo, Ting Wang, Kai Zhou, Ting Liu, Yuzhe Tang  
