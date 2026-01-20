@@ -162,11 +162,11 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   IEEE Transactions on Information Forensics and Security (**TIFS**), 2018
 
 ## Awards
-- **[First Prize of the Natural Science Award (2025)](/files/Happer.pdf)**, GuangDong-Hong Kong-Macao Greater Bay Area Society of Artificial Intelligence ＆ Automation
-- **Cybersecurity Best Practical Paper Award** at Cybersecurity'25
-- **ACM SIGSOFT Distinguished Paper Award** at ASE'24
-- **ACM SIGSAC Distinguished Paper Award** at CCS'24
-- **ACM SIGSOFT Distinguished Paper Award** at ISSTA'22
+- **[First Prize of the Natural Science Award (2025)](/files/GBA-Award-2025.pdf)**, GuangDong-Hong Kong-Macao Greater Bay Area Society of Artificial Intelligence ＆ Automation
+- **[Cybersecurity Best Practical Paper Award](/files/DoubleUpRoll-Award-2.pdf)** at Cybersecurity'25
+- **[ACM SIGSOFT Distinguished Paper Award](/files/MiniChecker-Award.jpg)** at ASE'24
+- **[ACM SIGSAC Distinguished Paper Award](/files/DoubleUpRoll-Award-1.pdf)** at CCS'24
+- **[ACM SIGSOFT Distinguished Paper Award](/files/NCScope-Award.pdf)** at ISSTA'22
 
 ## Services
 - **Technical Program Committee Member**  
