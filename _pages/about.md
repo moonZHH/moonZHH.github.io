@@ -182,12 +182,6 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   2026: [CCS](https://www.sigsac.org/ccs/CCS2026/), [DSN](https://dsn2026.github.io/)  
   2025: [AsiaCCS](https://asiaccs2025.hust.edu.vn/), [CCS](https://www.sigsac.org/ccs/CCS2025/), [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
-- **Artifacts Evaluation Committee Member**  
-  2022: [ACSAC](https://www.acsac.org/2022)  
-  2020: [ACSAC](https://www.acsac.org/2020)
-- **Conference Reviewer**  
-  2025: [WWW](https://www2025.thewebconf.org/)  
-  2024: [WWW](https://www2024.thewebconf.org/)
 - **Journal Reviewer**  
   2025: [TDSC](/files/TDSC-Reviewer-2025.pdf), [TSE](/files/TSE-Reviewer-2025.pdf)  
   2024: [TDSC](/files/TDSC-Reviewer-2025.pdf)
@@ -195,9 +189,6 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 ## Teaching Experience
 - Cyber and Internet Security (COMP5355), Lecturer
 - Decentralized Apps Fundamentals and Development (COMP5565), Lecturer
-- Object-oriented Programming (COMP2021), Teaching Assistant
-- Software Project Management (COMP3235), Teaching Assistant
-- Social and Collaborative Computing (COMP3121), Teaching Assistant
 
 ## Discovered Vulnerabilities
 - Google Android  
