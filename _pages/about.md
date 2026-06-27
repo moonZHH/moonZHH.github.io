@@ -36,7 +36,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   33rd ACM Conference on Computer and Communications Security (**CCS**), 2026
 - **SmarTracker: Leveraging LLMs to Automate User Behavior Tracking in Mobile Apps**  
   [[paper]](https://)  
-  Shuohan Wu, <u>Hao Zhou</u, Kaifa Zhao, Le Yu, Shudi Bao, Xiapu Luo  
+  Shuohan Wu, <u>Hao Zhou</u>, Kaifa Zhao, Le Yu, Shudi Bao, Xiapu Luo  
   IEEE Transactions on Software Engineering (**TSE**), 2026
 - **Interpretable Defense against Structural Adversarial Attack on Android Malware Detection**  
   [[paper]](https://doi.org/10.1109/TIFS.2025.3639962)  
