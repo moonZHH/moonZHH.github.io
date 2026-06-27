@@ -30,6 +30,14 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 - 09/2011 - 06/2015, B.E., Nanjing University of Posts and Telecommunications
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=o7__60kAAAAJ) and [DBLP](https://dblp.org/pid/63/778-43.html))
+- **Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies**  
+  [[paper]](https://)  
+  Yanjie Zhao, Zhiyuan Yang, Weimin Cheng, Sheng Cao, <u>Hao Zhou</u>, Haoyu Wang  
+  33rd ACM Conference on Computer and Communications Security (**CCS**), 2026
+- **SmarTracker: Leveraging LLMs to Automate User Behavior Tracking in Mobile Apps**  
+  [[paper]](https://)  
+  Shuohan Wu, <u>Hao Zhou</u, Kaifa Zhao, Le Yu, Shudi Bao, Xiapu Luo  
+  IEEE Transactions on Software Engineering (**TSE**), 2026
 - **Interpretable Defense against Structural Adversarial Attack on Android Malware Detection**  
   [[paper]](https://doi.org/10.1109/TIFS.2025.3639962)  
   Wenying Wei, Kaifa Zhao, <u>Hao Zhou</u>, Jianfeng Li, Shuohan Wu, Ming Fan, Xiapu Luo, Ting Wang, Kai Zhou, Ting Liu, Yuzhe Tang  
@@ -170,7 +178,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 
 ## Services
 - **Technical Program Committee Member**  
-  2027: [FSE](https://conf.researchr.org/home/fse-2027), [DSN](https://)  
+  2027: [DSN](https://dsn2027-berlin.github.io/), [FSE](https://conf.researchr.org/home/fse-2027)  
   2026: [CCS](https://www.sigsac.org/ccs/CCS2026/), [DSN](https://dsn2026.github.io/)  
   2025: [AsiaCCS](https://asiaccs2025.hust.edu.vn/), [CCS](https://www.sigsac.org/ccs/CCS2025/), [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
