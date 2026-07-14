@@ -199,6 +199,8 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
   [CVE-2021-39796](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-39796),  
   [CVE-2022-20200](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-20200), 
   [CVE-2023-21017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2023-21017)
+- Huawei HarmonyOS  
+  [CVE-2026-41971](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2026-41971) 
 - Honor MagicUI  
 - Samsung OneUI  
   [CVE-2022-27575](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-27575), 
