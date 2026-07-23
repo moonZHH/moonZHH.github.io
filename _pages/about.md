@@ -178,7 +178,7 @@ Hao received the Ph.D. degree in the Department of Computing at the Hong Kong Po
 
 ## Services
 - **Technical Program Committee Member**  
-  2027: [DSN](https://dsn2027-berlin.github.io/), [FSE](https://conf.researchr.org/home/fse-2027)  
+  2027: [DSN](https://dsn2027-berlin.github.io/), [FSE](https://conf.researchr.org/home/fse-2027), [USENIX Security](https://www.usenix.org/conference/usenixsecurity27)  
   2026: [CCS](https://www.sigsac.org/ccs/CCS2026/), [DSN](https://dsn2026.github.io/)  
   2025: [AsiaCCS](https://asiaccs2025.hust.edu.vn/), [CCS](https://www.sigsac.org/ccs/CCS2025/), [ISSTA](https://conf.researchr.org/home/issta-2025), [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)  
   2024: [AsiaCCS](https://asiaccs2024.sutd.edu.sg), [ISSTA](https://2024.issta.org), [SEKE](https://ksiresearch.org/seke/seke24.html), [USENIX Security](https://www.usenix.org/conference/usenixsecurity24)  
